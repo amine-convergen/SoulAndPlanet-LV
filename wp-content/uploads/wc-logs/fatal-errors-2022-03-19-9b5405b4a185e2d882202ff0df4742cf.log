@@ -1,0 +1,8 @@
+2022-03-19T06:52:10+00:00 CRITICAL Uncaught RuntimeException: Impossible de demander des actions. Erreur de la base de données. in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:665
+Stack trace:
+#0 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php(588): ActionScheduler_DBStore->claim_actions()
+#1 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim()
+#2 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch()
+#3 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-includes/class-wp-hook.php(307): ActionScheduler_QueueRunner->run()
+#4 /home/288426 dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php à la ligne 665
+

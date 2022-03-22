@@ -1,0 +1,350 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:41:"Skipped. Unknown order status (canceled).";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:2;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 2";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 3";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:16:"Date non valide.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:5;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 5";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:6;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 7";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:7;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 8";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:8;s:7:"message";s:58:"Importing Order(ID) conflicts with an existing post. ID: 9";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:9;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:10;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:11;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:12;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 13";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:13;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 14";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:14;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 15";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:15;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 16";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:16;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:17;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 18";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:18;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:19;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 20";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:20;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 21";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:21;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:22;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:23;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:24;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:25;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:26;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:27;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:28;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:30;}
+a:4:{s:3:"row";i:29;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:30;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:31;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:32;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:33;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:35;}
+a:4:{s:3:"row";i:34;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:35;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:36;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:37;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:38;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:39;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:40;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:42;}
+a:4:{s:3:"row";i:41;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:42;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:43;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:44;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:46;}
+a:4:{s:3:"row";i:45;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:46;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:47;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:48;s:7:"message";s:59:"Importing Order(ID) conflicts with an existing post. ID: 50";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:49;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:50;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:51;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:52;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:53;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:55;}
+a:4:{s:3:"row";i:54;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:55;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:56;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:57;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:58;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:59;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:60;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:61;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:62;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:63;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:64;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:66;}
+a:4:{s:3:"row";i:65;s:7:"message";s:61:"Skipped. Invalid date format 13/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:66;s:7:"message";s:61:"Skipped. Invalid date format 13/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:67;s:7:"message";s:61:"Skipped. Invalid date format 14/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:68;s:7:"message";s:61:"Skipped. Invalid date format 14/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:69;s:7:"message";s:61:"Skipped. Invalid date format 14/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:70;s:7:"message";s:61:"Skipped. Invalid date format 15/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:71;s:7:"message";s:61:"Skipped. Invalid date format 16/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:72;s:7:"message";s:61:"Skipped. Invalid date format 16/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:73;s:7:"message";s:61:"Skipped. Invalid date format 18/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:74;s:7:"message";s:61:"Skipped. Invalid date format 18/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:75;s:7:"message";s:61:"Skipped. Invalid date format 20/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:76;s:7:"message";s:61:"Skipped. Invalid date format 20/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:77;s:7:"message";s:61:"Skipped. Invalid date format 20/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:78;s:7:"message";s:61:"Skipped. Invalid date format 20/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:79;s:7:"message";s:61:"Skipped. Invalid date format 20/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:80;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:81;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:82;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:83;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:84;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:85;s:7:"message";s:61:"Skipped. Invalid date format 21/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:86;s:7:"message";s:61:"Skipped. Invalid date format 22/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:87;s:7:"message";s:61:"Skipped. Invalid date format 22/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:88;s:7:"message";s:61:"Skipped. Invalid date format 29/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:89;s:7:"message";s:61:"Skipped. Invalid date format 23/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:90;s:7:"message";s:61:"Skipped. Invalid date format 24/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:91;s:7:"message";s:61:"Skipped. Invalid date format 24/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:92;s:7:"message";s:61:"Skipped. Invalid date format 26/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:93;s:7:"message";s:61:"Skipped. Invalid date format 26/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:94;s:7:"message";s:61:"Skipped. Invalid date format 26/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:95;s:7:"message";s:61:"Skipped. Invalid date format 29/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:96;s:7:"message";s:61:"Skipped. Invalid date format 27/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:97;s:7:"message";s:61:"Skipped. Invalid date format 27/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:98;s:7:"message";s:61:"Skipped. Invalid date format 28/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:99;s:7:"message";s:61:"Skipped. Invalid date format 29/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:100;s:7:"message";s:61:"Skipped. Invalid date format 29/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:101;s:7:"message";s:61:"Skipped. Invalid date format 29/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:102;s:7:"message";s:61:"Skipped. Invalid date format 30/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:103;s:7:"message";s:61:"Skipped. Invalid date format 30/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:104;s:7:"message";s:61:"Skipped. Invalid date format 30/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:105;s:7:"message";s:61:"Skipped. Invalid date format 30/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:106;s:7:"message";s:61:"Skipped. Invalid date format 31/05/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:107;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:109;}
+a:4:{s:3:"row";i:108;s:7:"message";s:60:"Skipped. Invalid date format 30/06/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:109;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:111;}
+a:4:{s:3:"row";i:110;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:112;}
+a:4:{s:3:"row";i:111;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:113;}
+a:4:{s:3:"row";i:112;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:114;}
+a:4:{s:3:"row";i:113;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:115;}
+a:4:{s:3:"row";i:114;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:116;}
+a:4:{s:3:"row";i:115;s:7:"message";s:60:"Skipped. Invalid date format 30/06/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:116;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:118;}
+a:4:{s:3:"row";i:117;s:7:"message";s:60:"Skipped. Invalid date format 13/06/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:118;s:7:"message";s:60:"Skipped. Invalid date format 30/06/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:119;s:7:"message";s:60:"Skipped. Invalid date format 30/06/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:120;s:7:"message";s:61:"Skipped. Invalid date format 20/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:121;s:7:"message";s:61:"Skipped. Invalid date format 13/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:122;s:7:"message";s:61:"Skipped. Invalid date format 14/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:123;s:7:"message";s:61:"Skipped. Invalid date format 14/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:124;s:7:"message";s:61:"Skipped. Invalid date format 20/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:125;s:7:"message";s:61:"Skipped. Invalid date format 14/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:126;s:7:"message";s:61:"Skipped. Invalid date format 15/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:127;s:7:"message";s:61:"Skipped. Invalid date format 15/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:128;s:7:"message";s:61:"Skipped. Invalid date format 15/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:129;s:7:"message";s:61:"Skipped. Invalid date format 16/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:130;s:7:"message";s:61:"Skipped. Invalid date format 16/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:131;s:7:"message";s:61:"Skipped. Invalid date format 17/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:132;s:7:"message";s:61:"Skipped. Invalid date format 18/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:133;s:7:"message";s:61:"Skipped. Invalid date format 18/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:134;s:7:"message";s:61:"Skipped. Invalid date format 19/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:135;s:7:"message";s:61:"Skipped. Invalid date format 23/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:136;s:7:"message";s:61:"Skipped. Invalid date format 24/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:137;s:7:"message";s:61:"Skipped. Invalid date format 24/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:138;s:7:"message";s:61:"Skipped. Invalid date format 30/06/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:139;s:7:"message";s:60:"Skipped. Invalid date format 15/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:140;s:7:"message";s:60:"Skipped. Invalid date format 22/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:141;s:7:"message";s:60:"Skipped. Invalid date format 22/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:142;s:7:"message";s:60:"Skipped. Invalid date format 15/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:143;s:7:"message";s:60:"Skipped. Invalid date format 22/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:144;s:7:"message";s:60:"Skipped. Invalid date format 22/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:145;s:7:"message";s:60:"Skipped. Invalid date format 22/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:146;s:7:"message";s:60:"Skipped. Invalid date format 15/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:147;s:7:"message";s:60:"Skipped. Invalid date format 21/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:148;s:7:"message";s:60:"Skipped. Invalid date format 21/07/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:149;s:7:"message";s:61:"Skipped. Invalid date format 22/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:150;s:7:"message";s:61:"Skipped. Invalid date format 14/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:151;s:7:"message";s:61:"Skipped. Invalid date format 15/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:152;s:7:"message";s:61:"Skipped. Invalid date format 16/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:153;s:7:"message";s:61:"Skipped. Invalid date format 18/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:154;s:7:"message";s:61:"Skipped. Invalid date format 25/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:155;s:7:"message";s:61:"Skipped. Invalid date format 18/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:156;s:7:"message";s:61:"Skipped. Invalid date format 19/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:157;s:7:"message";s:61:"Skipped. Invalid date format 22/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:158;s:7:"message";s:61:"Skipped. Invalid date format 22/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:159;s:7:"message";s:61:"Skipped. Invalid date format 22/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:160;s:7:"message";s:61:"Skipped. Invalid date format 22/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:161;s:7:"message";s:61:"Skipped. Invalid date format 23/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:162;s:7:"message";s:61:"Skipped. Invalid date format 23/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:163;s:7:"message";s:61:"Skipped. Invalid date format 24/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:164;s:7:"message";s:61:"Skipped. Invalid date format 25/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:165;s:7:"message";s:61:"Skipped. Invalid date format 26/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:166;s:7:"message";s:61:"Skipped. Invalid date format 26/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:167;s:7:"message";s:61:"Skipped. Invalid date format 27/07/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:168;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:170;}
+a:4:{s:3:"row";i:169;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:171;}
+a:4:{s:3:"row";i:170;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:172;}
+a:4:{s:3:"row";i:171;s:7:"message";s:60:"Skipped. Invalid date format 27/08/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:172;s:7:"message";s:60:"Skipped. Invalid date format 27/08/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:173;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:175;}
+a:4:{s:3:"row";i:174;s:7:"message";s:61:"Skipped. Invalid date format 25/08/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:175;s:7:"message";s:61:"Skipped. Invalid date format 26/08/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:176;s:7:"message";s:61:"Skipped. Invalid date format 30/08/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:177;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:179;}
+a:4:{s:3:"row";i:178;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:180;}
+a:4:{s:3:"row";i:179;s:7:"message";s:60:"Skipped. Invalid date format 21/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:180;s:7:"message";s:60:"Skipped. Invalid date format 16/09/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:181;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:183;}
+a:4:{s:3:"row";i:182;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 184";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:183;s:7:"message";s:60:"Skipped. Invalid date format 16/09/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:184;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 186";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:185;s:7:"message";s:61:"Skipped. Invalid date format 16/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:186;s:7:"message";s:61:"Skipped. Invalid date format 14/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:187;s:7:"message";s:61:"Skipped. Invalid date format 15/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:188;s:7:"message";s:61:"Skipped. Invalid date format 15/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:189;s:7:"message";s:61:"Skipped. Invalid date format 20/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:190;s:7:"message";s:61:"Skipped. Invalid date format 20/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:191;s:7:"message";s:61:"Skipped. Invalid date format 23/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:192;s:7:"message";s:61:"Skipped. Invalid date format 21/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:193;s:7:"message";s:61:"Skipped. Invalid date format 21/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:194;s:7:"message";s:61:"Skipped. Invalid date format 21/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:195;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 197";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:196;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 198";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:197;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 199";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:198;s:7:"message";s:61:"Skipped. Invalid date format 27/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:199;s:7:"message";s:61:"Skipped. Invalid date format 29/09/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:200;s:7:"message";s:60:"Skipped. Invalid date format 14/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:201;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 203";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:202;s:7:"message";s:60:"Skipped. Invalid date format 14/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:203;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 205";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:204;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 206";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:205;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 207";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:206;s:7:"message";s:60:"Skipped. Invalid date format 21/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:207;s:7:"message";s:60:"Skipped. Invalid date format 21/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:208;s:7:"message";s:60:"Skipped. Invalid date format 14/10/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:209;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 211";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:210;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 212";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:211;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 213";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:212;s:7:"message";s:61:"Skipped. Invalid date format 13/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:213;s:7:"message";s:61:"Skipped. Invalid date format 13/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:214;s:7:"message";s:61:"Skipped. Invalid date format 14/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:215;s:7:"message";s:61:"Skipped. Invalid date format 18/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:216;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 218";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:217;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 219";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:218;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 220";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:219;s:7:"message";s:61:"Skipped. Invalid date format 23/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:220;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 222";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:221;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 223";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:222;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 224";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:223;s:7:"message";s:61:"Skipped. Invalid date format 25/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:224;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 226";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:225;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 227";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:226;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 228";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:227;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 229";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:228;s:7:"message";s:61:"Skipped. Invalid date format 27/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:229;s:7:"message";s:61:"Skipped. Invalid date format 28/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:230;s:7:"message";s:61:"Skipped. Invalid date format 29/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:231;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 233";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:232;s:7:"message";s:61:"Skipped. Invalid date format 29/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:233;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 235";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:234;s:7:"message";s:61:"Skipped. Invalid date format 30/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:235;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 237";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:236;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 238";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:237;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 239";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:238;s:7:"message";s:61:"Skipped. Invalid date format 30/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:239;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 241";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:240;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 242";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:241;s:7:"message";s:61:"Skipped. Invalid date format 31/10/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:242;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 244";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:243;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:245;}
+a:4:{s:3:"row";i:244;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 246";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:245;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 247";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:246;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:248;}
+a:4:{s:3:"row";i:247;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:249;}
+a:4:{s:3:"row";i:248;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 250";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:249;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 251";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:250;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 252";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:251;s:7:"message";s:60:"Skipped. Invalid date format 16/11/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:252;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:254;}
+a:4:{s:3:"row";i:253;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 255";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:254;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 256";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:255;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 257";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:256;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:258;}
+a:4:{s:3:"row";i:257;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 259";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:258;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 260";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:259;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 261";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:260;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:262;}
+a:4:{s:3:"row";i:261;s:7:"message";s:61:"Skipped. Invalid date format 16/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:262;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 264";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:263;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 265";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:264;s:7:"message";s:61:"Skipped. Invalid date format 13/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:265;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 267";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:266;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 268";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:267;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 269";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:268;s:7:"message";s:61:"Skipped. Invalid date format 17/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:269;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 271";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:270;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 272";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:271;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 273";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:272;s:7:"message";s:61:"Skipped. Invalid date format 19/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:273;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 275";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:274;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 276";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:275;s:7:"message";s:61:"Skipped. Invalid date format 25/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:276;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 278";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:277;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 279";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:278;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 280";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:279;s:7:"message";s:61:"Skipped. Invalid date format 22/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:280;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 282";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:281;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 283";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:282;s:7:"message";s:61:"Skipped. Invalid date format 24/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:283;s:7:"message";s:61:"Skipped. Invalid date format 24/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:284;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 286";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:285;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 287";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:286;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 288";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:287;s:7:"message";s:61:"Skipped. Invalid date format 25/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:288;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 290";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:289;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 291";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:290;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 292";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:291;s:7:"message";s:61:"Skipped. Invalid date format 25/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:292;s:7:"message";s:61:"Skipped. Invalid date format 26/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:293;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 295";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:294;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 296";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:295;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 297";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:296;s:7:"message";s:61:"Skipped. Invalid date format 28/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:297;s:7:"message";s:61:"Skipped. Invalid date format 28/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:298;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 300";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:299;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 301";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:300;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 302";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:301;s:7:"message";s:61:"Skipped. Invalid date format 30/11/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:302;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:304;}
+a:4:{s:3:"row";i:303;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 305";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:304;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 306";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:305;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 307";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:306;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:308;}
+a:4:{s:3:"row";i:307;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 309";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:308;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 310";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:309;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 311";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:310;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:312;}
+a:4:{s:3:"row";i:311;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 313";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:312;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 314";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:313;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:315;}
+a:4:{s:3:"row";i:314;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 316";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:315;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 317";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:316;s:7:"message";s:60:"Skipped. Invalid date format 14/12/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:317;s:7:"message";s:60:"Skipped. Invalid date format 14/12/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:318;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 320";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:319;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 321";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:320;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 322";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:321;s:7:"message";s:28:"Order imported successfully.";s:6:"status";b:1;s:7:"post_id";i:323;}
+a:4:{s:3:"row";i:322;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 324";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:323;s:7:"message";s:60:"Skipped. Invalid date format 14/12/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:324;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 326";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:325;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 327";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:326;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 328";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:327;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 329";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:328;s:7:"message";s:61:"Skipped. Invalid date format 13/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:329;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 331";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:330;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 332";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:331;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 333";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:332;s:7:"message";s:61:"Skipped. Invalid date format 16/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:333;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 335";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:334;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 336";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:335;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 337";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:336;s:7:"message";s:61:"Skipped. Invalid date format 18/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:337;s:7:"message";s:61:"Skipped. Invalid date format 19/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:338;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 340";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:339;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 341";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:340;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 342";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:341;s:7:"message";s:61:"Skipped. Invalid date format 21/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:342;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 344";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:343;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 345";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:344;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 346";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:345;s:7:"message";s:61:"Skipped. Invalid date format 23/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:346;s:7:"message";s:61:"Skipped. Invalid date format 23/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:347;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 349";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:348;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 350";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:349;s:7:"message";s:60:"Importing Order(ID) conflicts with an existing post. ID: 351";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:350;s:7:"message";s:61:"Skipped. Invalid date format 30/12/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}

@@ -1,0 +1,24 @@
+03-12-2022 @ 17:21:44 - ---[ New import started at 2022-03-12 17:21:44 ] PHP Memory: 512 Mo, WP Memory: 40 Mo
+03-12-2022 @ 17:21:44 - Preparing for import.
+03-12-2022 @ 17:21:44 - Row :1 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :1 - Parsing failed. Reason: Skipped. Invalid date format #not in column order_date.
+03-12-2022 @ 17:21:44 - Row :2 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :2 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 2
+03-12-2022 @ 17:21:44 - Row :3 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :3 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 3
+03-12-2022 @ 17:21:44 - Row :4 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :4 - Parsing failed. Reason: Skipped. Invalid date format #not in column order_date.
+03-12-2022 @ 17:21:44 - Row :5 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :5 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 5
+03-12-2022 @ 17:21:44 - Row :6 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :6 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 7
+03-12-2022 @ 17:21:44 - Row :7 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :7 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 8
+03-12-2022 @ 17:21:44 - Row :8 - Parsing item.
+03-12-2022 @ 17:21:44 - Row :8 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 9
+03-12-2022 @ 17:21:44 - Row :9 - Parsing item.
+03-12-2022 @ 17:21:44 - Importing as new order ID:6700
+03-12-2022 @ 17:21:44 - Row :9 - Processing item.
+03-12-2022 @ 17:21:44 - Found order object. ID:6700
+03-12-2022 @ 17:21:44 - Row :9 - Order imported successfully.
+03-12-2022 @ 17:21:44 - ---[ Import ended at 2022-03-12 17:21:44]---

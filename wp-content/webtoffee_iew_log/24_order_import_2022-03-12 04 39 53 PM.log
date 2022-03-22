@@ -1,0 +1,10 @@
+03-12-2022 @ 16:39:53 - ---[ New import started at 2022-03-12 16:39:53 ] PHP Memory: 512 Mo, WP Memory: 40 Mo
+03-12-2022 @ 16:39:53 - Preparing for import.
+03-12-2022 @ 16:39:53 - Row :1 - Parsing item.
+03-12-2022 @ 16:39:53 - Row :1 - Parsing failed. Reason: Date non valide.
+03-12-2022 @ 16:39:53 - Row :2 - Parsing item.
+03-12-2022 @ 16:39:53 - Importing as new order ID:1350
+03-12-2022 @ 16:39:53 - Row :2 - Processing item.
+03-12-2022 @ 16:39:53 - Found order object. ID:1350
+03-12-2022 @ 16:39:53 - Row :2 - Order imported successfully.
+03-12-2022 @ 16:39:53 - ---[ Import ended at 2022-03-12 16:39:53]---

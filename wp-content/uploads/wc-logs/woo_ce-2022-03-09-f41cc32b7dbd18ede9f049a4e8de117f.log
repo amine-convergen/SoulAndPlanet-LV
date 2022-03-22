@@ -1,0 +1,8 @@
+2022-03-09T09:01:13+00:00 NOTICE Fatal error: A fatal PHP error was encountered during the export process, we couldn't detect or diagnose it further. (<a href="http://www.visser.com.au/documentation/store-exporter/usage/" target="_blank">Need help?</a>) - PHP response: Uncaught Error: Call to a member function get_stock_quantity() on null in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/themes/bacola/functions.php:985
+Stack trace:
+#0 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-includes/class-wp-hook.php(307): custom_get_availability()
+#1 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#2 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(2056): apply_filters()
+#3 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3515): WC_Product->get_availability()
+#4 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(367): wc_get_stock_html()
+#5 /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(312): WC_Produc in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/themes/bacola/functions.php on line 985
