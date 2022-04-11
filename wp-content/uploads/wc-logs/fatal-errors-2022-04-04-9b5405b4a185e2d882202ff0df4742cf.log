@@ -1,0 +1,12 @@
+2022-04-04T13:54:29+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+
+2022-04-04T13:54:32+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+
+2022-04-04T13:54:34+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+
+2022-04-04T13:55:43+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+
+2022-04-04T13:55:45+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+
+2022-04-04T13:55:45+00:00 CRITICAL Cannot redeclare wc_ctp_add_clictopay_check_payment_page() (previously declared in /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/wc-clictopay-payment-gateway/payment_gateway_for_clicToPay_on_WooCommerce.php:15) dans /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-smt-clictopay-main/woocommerce-smt-clictopay.php à la ligne 10
+

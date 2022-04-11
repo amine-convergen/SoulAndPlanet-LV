@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="47" viewBox="0 0 47 47">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="0.241" x2="0.783" y2="0.794" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e2d52"/>
+      <stop offset="0.97" stop-color="#1e2c52" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 -0.192)">
+    <g id="_01.facebook" data-name="01.facebook">
+      <circle id="background" cx="23.5" cy="23.5" r="23.5" transform="translate(0 0.192)" fill="#334c8c"/>
+      <path id="shadow" d="M86.958,57.023A23.643,23.643,0,0,1,72.124,73.37L61.732,62.975l1.394-5.8-4.4-4.4C62.459,45.71,69.941,40,69.941,40Z" transform="translate(-40.496 -27.581)" fill="url(#linear-gradient)"/>
+      <path id="icon" d="M68.686,47.566l-.391,3.285a.621.621,0,0,1-.621.553H64.258v9.749a.441.441,0,0,1-.435.444h-3.48a.441.441,0,0,1-.435-.447l.019-9.746H57.341a.621.621,0,0,1-.621-.621V47.5a.621.621,0,0,1,.621-.621h2.571V43.691c0-3.685,2.192-5.691,5.4-5.691h2.63a.621.621,0,0,1,.621.621v2.766a.621.621,0,0,1-.621.621H66.332c-1.745.028-2.074.863-2.074,2.111v2.748H68.08a.621.621,0,0,1,.605.7Z" transform="translate(-39.11 -26.202)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

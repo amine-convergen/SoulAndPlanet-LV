@@ -1,0 +1,2 @@
+2022-03-21T16:48:04+00:00 INFO Template setting migrated from /home/288426.cloudwaysapps.com/acszbeecja/public_html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-03-21T16:48:06+00:00 CRITICAL Table 'acszbeecja.wp_wcpdf_invoice_number' doesn't exist

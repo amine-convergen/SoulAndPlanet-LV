@@ -1,0 +1,5 @@
+ID,Type,SKU,Name,Published,Visibility in catalog,Short description,Description,In stock?,Stock,Regular price,Categories,Tags,Parent,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 1 default
+,variable,VAR13,Crayon sourcils BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Sourcils",BIO,,0,Couleur,"Ultra Brun, Châtain Clair",1,1,Ultra Brun
+,variation,332,Crayon Sourcils Ultra Brun Bio,1,visible,,,1,10,28,,,VAR13,1,Couleur,Ultra Brun,,1,
+,variation,334,Crayon Sourcils Châtain Clair Bio,1,visible,,,1,7,28,,,VAR13,2,Couleur,Châtain Clair,,1,
+,variation,339,Crayon Sourcils Brun Bio,1,visible,,,1,9,27.9,,,VAR13,3,Couleur,Brun,,1,

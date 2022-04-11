@@ -1,0 +1,9 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:41:"Skipped. Unknown order status (canceled).";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:2;s:7:"message";s:16:"Date non valide.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:16:"Date non valide.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:16:"Date non valide.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:5;s:7:"message";s:16:"Date non valide.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:6;s:7:"message";s:61:"Skipped. Invalid date format 25/04/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:7;s:7:"message";s:61:"Skipped. Invalid date format 25/04/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:8;s:7:"message";s:61:"Skipped. Invalid date format 25/04/2020 in column order_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:9;s:7:"message";s:60:"Skipped. Invalid date format 15/05/2020 in column paid_date.";s:6:"status";b:0;s:7:"post_id";s:0:"";}

@@ -1,0 +1,7 @@
+.product-detail form.cart.single-ajax button {
+    position: relative;
+}
+
+.product-detail form.cart.single-ajax button svg {
+    color: #fff;
+}

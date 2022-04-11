@@ -1,0 +1,97 @@
+ID,Type,SKU,Name,Published,Visibility in catalog,Short description,Description,In stock?,Stock,Regular price,Categories,Tags,Parent,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 1 default
+,variable,VAR1,Barre énergitique,1,visible,Short Description,Main Description,1,,,"Alimentation, Sucré, snacks",Commerce équitable / riche en fibre / naturel ,,0,saveur,"Abricot, Bsissa, Choco abricot, Figue, Raisin, Sésame",1,1,Abricot
+,variation,114,Barre énergétique - Bsissa,1,visible,,,1,16,2.5,,,VAR1,1,saveur,Bsissa,,1,
+,variation,116,Barre énergétique - Figue,1,visible,,,1,13,2.5,,,VAR1,2,saveur,Figue,,1,
+,variation,118,Barre énergétique - Sésame,1,visible,,,1,12,2.5,,,VAR1,3,saveur,Sésame,,1,
+,variation,119,Barre énergétique - Raisin,1,visible,,,1,5,2.5,,,VAR1,4,saveur,Raisin,,1,
+,variation,120,Barre énergétique - Abricot,1,visible,,,1,24,2.5,,,VAR1,5,saveur,Abricot,,1,
+,variation,122,Barre énergétique - Choco Abricot,1,visible,,,1,3,3.5,,,VAR1,6,saveur,Choco abricot,,1,
+,variable,VAR2,Masque visage BIO ,1,visible,Short Description,Main Description,1,,,"Beauté, Soins du visage, Masques",BIO,,0,Fonctionnalité,"Purifiant , Hydratant, Energisant & Coup d’Eclat",1,1,Purifiant
+,variation,202,Masque Visage Purifiant - Certifié Bio,1,visible,,,1,2,28.177,,,VAR2,1,Fonctionnalité,Purifiant,,1,
+,variation,203,Masque Visage Hydratant - Certifié Bio,1,visible,,,1,1,28.9,,,VAR2,2,Fonctionnalité,Hydratant,,1,
+,variation,209,Masque Visage Energisant & Coup d’Eclat - Certifié Bio,1,visible,,,1,2,30.9,,,VAR2,3,Fonctionnalité,Energisant & Coup d’Eclat,,1,
+,variable,VAR3,Crayon DUO yeux BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Yeux",BIO,,0,Couleur,"Beige Doré & Bronze Cuivré , Noir Charbon & Taupe Nacré , Cuivre Irisé & Terre Brûlée",1,1,Beige Doré & Bronze Cuivré
+,variation,230,Crayon Duo Yeux Beige Doré & Bronze Cuivré,1,visible,,,1,0,29.5,,,VAR3,1,Couleur,Beige Doré & Bronze Cuivré,,1,
+,variation,231,Crayon Duo Yeux Noir Charbon & Taupe Nacré,1,visible,,,1,1,29.5,,,VAR3,2,Couleur,Noir Charbon & Taupe Nacré,,1,
+,variation,232,Crayon Duo Cuivre Irisé & Terre Brûlée,1,visible,,,1,3,29.5,,,VAR3,3,Couleur,Cuivre Irisé & Terre Brûlée,,1,
+,variable,VAR5,Crayon rouge à lèvres BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Lèvres",BIO,,0,Couleur,"Rouge Griotte , vrai rouge",1,1,Rouge Griotte
+,variation,236,Crayon rouge à lèvres/ Rouge Griotte Bio,1,visible,,,1,1,25.12605,,,VAR5,1,Couleur,,,1,
+,variation,237,Crayon rouge à lèvres/ vrai rouge bio,1,visible,,,1,0,25.12605,,,VAR5,2,Couleur,vrai rouge,,1,
+,variable,VAR6,Rouge à lèvres MAT BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Lèvres",BIO,,0,Référence,"Pêche Irisée, Pêche Irisée, Rose Vinyle, Sienne Brûlée, Acajou, Terre Battue",1,1,Pêche Irisée
+,variation,241,Rouge à Lèvres Mat Pêche Irisée Bio,1,visible,,,1,5,41.5,,,VAR6,1,Référence,Pêche Irisée,,1,
+,variation,242,Rouge à Lèvres Mat Rose Vinyle Bio,1,visible,,,1,0,41.5,,,VAR6,2,Référence,Rose Vinyle,,1,
+,variation,243,Rouge à Lèvres Mat Sienne Brûlée Bio,1,visible,,,1,5,41.5,,,VAR6,3,Référence,Sienne Brûlée,,1,
+,variation,244,Rouge à Lèvres Mat Acajou Bio,1,visible,,,1,2,41.5,,,VAR6,4,Référence,Acajou,,1,
+,variation,245,Rouge à Lèvres Mat Terre Battue Bio,1,visible,,,1,16,41.5,,,VAR6,5,Référence,Terre Battue,,1,
+,variable,VAR7,Fond de teint BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Teint ",BIO,,0,Teinte,"Clair, Beige, Nude, Doré",1,1,Clair
+,variation,246,Fond de Teint Clair Bio,1,visible,,,1,5,47,,,VAR7,1,Teinte,Clair,,1,
+,variation,247,Fond de Teint Beige Bio,1,visible,,,1,6,47,,,VAR7,2,Teinte,Beige,,1,
+,variation,248,Fond de Teint Nude Bio,1,visible,,,1,0,47,,,VAR7,3,Teinte,Nude,,1,
+,variation,249,Fond de Teint Doré Bio,1,visible,,,1,6,47,,,VAR7,4,Teinte,Doré,,1,
+,variable,VAR8,Anti cernes BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Teint ",BIO,,0,Teinte,"Ivoire, Nude, Porcelaine",1,1,Ivoire
+,variation,250,Anti Cernes Ivoire Bio,1,visible,,,1,2,37.8,,,VAR8,1,Teinte,Ivoire,,1,
+,variation,251,Anti cernes Nude Bio,1,visible,,,1,15,37.8,,,VAR8,2,Teinte,Nude,,1,
+,variation,252,Anti Cernes Porcelaine Bio,1,visible,,,1,2,37.8,,,VAR8,3,Teinte,Porcelaine,,1,
+,variable,VAR9,Poudre compacte BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Teint ",BIO,,0,Teinte,"Claire, Nude",1,1,Claire
+,variation,253,Poudre Compacte Claire Bio,1,visible,,,1,8,46.7,,,VAR9,1,Teinte,Claire,,1,
+,variation,254,Poudre Compacte Nude Bio,1,visible,,,1,0,46.7,,,VAR9,2,Teinte,Nude,,1,
+,variable,VAR10,Blush BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Teint ",BIO,,0,Référence,"Rose Eclat, Terre Cuite, Pêche Rosé",1,1,Rose Eclat
+,variation,255,Blush Rose Eclat Bio,1,visible,,,1,15,35.09,,,VAR10,1,Référence,Rose Eclat,,1,
+,variation,256,Blush Terre Cuite Bio,1,visible,,,1,2,35.09,,,VAR10,2,Référence,Terre Cuite,,1,
+,variation,257,Blush Pêche Rosé Bio ,1,visible,,,1,0,35.09,,,VAR10,3,Référence,Pêche Rosé,,1,
+,variable,VAR11,Highlighter BIO ,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Teint ",BIO,,0,Référence,"Quartz Rose, Champagne, Or Cuivré",1,1,Quartz Rose
+,variation,258,Highlighter Quartz Rose Certifié bio,1,visible,,,1,10,44.6,,,VAR11,1,Référence,Quartz Rose,,1,
+,variation,259,Highlighter Champagne Certifié bio,1,visible,,,1,9,44.6,,,VAR11,2,Référence,Champagne,,1,
+,variation,260,Highlighter Or Cuivré Certifié bio,1,visible,,,1,13,44.6,,,VAR11,3,Référence,Or Cuivré,,1,
+,variable,VAR12,Bombe de bain ,1,visible,Short Description,Main Description,1,,,"Beauté, Soin du corps, Bain",commerce équitable,,0,senteur,"Framboise, Lavande, Fraise, Menthe",1,1,Framboise
+,variation,297,Bombe de Bain Framboise,1,visible,,,1,5,5,,,VAR12,1,senteur,Framboise,,1,
+,variation,299,Bombe de Bain Lavande,1,visible,,,1,3,5,,,VAR12,2,senteur,Lavande,,1,
+,variation,300,Bombe de Bain Fraise,1,visible,,,1,1,5,,,VAR12,3,senteur,Fraise,,1,
+,variation,379,Bombe de Bain Menthe,1,visible,,,1,6,5,,,VAR12,4,senteur,Menthe,,1,
+,variable,VAR13,Crayon sourcils BIO ,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Sourcils",BIO,,0,Couleur,"Ultra Brun, Châtain Clair",1,1,Ultra Brun
+,variation,332,Crayon Sourcils Ultra Brun Bio,1,visible,,,1,10,28,,,VAR13,1,Couleur,Ultra Brun,,1,
+,variation,334,Crayon Sourcils Châtain Clair Bio,1,visible,,,1,7,28,,,VAR13,2,Couleur,Châtain Clair,,1,
+,variation,339,Crayon Sourcils Brun Bio,1,visible,,,1,9,27.9,,,VAR13,3,Couleur,Brun,,1,
+,variable,VAR14,Crayon contour des lèvres BIO ,1,visible,Short Description,Main Description,1,,,"Beauté, lèvres",BIO,,0,Couleur,"Vieux Rose, Nude, Rouge Franc",1,1,Vieux Rose
+,variation,345,Crayon Contour Lèvres Vieux Rose,1,visible,,,1,7,23,,,VAR14,1,Couleur,Vieux Rose,,1,
+,variation,347,Crayon Contour des Lèvres - Nude,1,visible,,,1,3,23,,,VAR14,2,Couleur,Nude,,1,
+,variation,348,Crayon Contour des Lèvres - Rouge Franc,1,visible,,,1,3,23,,,VAR14,3,Couleur,Rouge Franc,,1,
+,variable,VAR15,Crayon rouge à lèvres BIO,1,visible,Short Description,Main Description,1,,,,BIO,,0,Couleur,"Sable Rosé, Violine, Corail, Châtaigne, Rose Bonbon, Bois de Rose",1,1,Sable Rosé
+,variation,349,Crayon Rouge à Lèvres Sable Rosé,1,visible,,,1,4,30,,,VAR15,1,Couleur,Sable Rosé,,1,
+,variation,350,Crayon Rouge à Lèvres Violine,1,visible,,,1,4,30,,,VAR15,2,Couleur,Violine,,1,
+,variation,351,Crayon Rouge à Lèvres Corail,1,visible,,,1,3,30,,,VAR15,3,Couleur,Corail,,1,
+,variation,352,Crayon Rouge à Lèvres Châtaigne,1,visible,,,1,0,30,,,VAR15,4,Couleur,Châtaigne,,1,
+,variation,353,Crayon Rouge à Lèvres Rose Bonbon,1,visible,,,1,9,30,,,VAR15,5,Couleur,Rose Bonbon,,1,
+,variation,355,Crayon Rouge à Lèvres Bois de Rose,1,visible,,,1,11,30,,,VAR15,6,Couleur,Bois de Rose,,1,
+,variable,VAR16,Barre Daty ,1,visible,Short Description,Main Description,1,,,"Alimentation, Sucré, snakcs",sans gluten / vegan,,0,Saveur,"dattes - noix de cajou - amandes - banane, dattes - noix de cajou - amandes, dattes - amandes - noix de cajou - poudre de cacao - noix de coco, dattes - noix de cajou - ananas - banane",1,1,dattes - noix de cajou - amandes - banane
+,variation,360,"Barre Daty dattes, noix de cajou, amandes, banane",1,visible,,,1,18,3.5,,,VAR16,1,Saveur,dattes - noix de cajou - amandes - banane,,1,
+,variation,361,"Barre Daty dattes, noix de cajou, amandes",1,visible,,,1,20,3.5,,,VAR16,2,Saveur,dattes - noix de cajou - amandes,,1,
+,variation,362,"Barre Daty dattes, amandes, noix de cajou, poudre de cacao, noix de coco",1,visible,,,1,23,3.5,,,VAR16,3,Saveur,dattes - amandes - noix de cajou - poudre de cacao - noix de coco,,1,
+,variation,636,"Barre Daty dattes, noix de cajou, ananas, banane",1,visible,,,1,28,3.5,,,VAR16,4,Saveur,dattes - noix de cajou - ananas - banane,,1,
+,variable,VAR17,Liniment oléo-calcaire,1,visible,Short Description,Main Description,1,,,"Enfants, Hygiène enfant, Liniment","Hypoallergénique, commerce équitable
+",,0,Contenance,"500 ML, 200 ML",1,1,500 ML
+,variation,441,Liniment Oléo-Calcaire 500 ML,1,visible,,,1,2,26,,,VAR17,1,Contenance,500 ML,,1,
+,variation,442,Liniment oléo-calcaire 200 ML,1,visible,,,1,2,15,,,VAR17,2,Contenance,,,1,
+,variable,VAR21,Holi,1,visible,Short Description,Main Description,1,,,"Santé, Aromathérapie, Les huiles essentielles",,,0,Fonctionnalité,"Muscle froissé, Récupération, Sciatique, Douleurs articulaires",1,1,Muscle froissé
+,variation,569,Holi-Muscle froissé,1,visible,,,1,2,25,,,VAR21,1,Fonctionnalité,Muscle froissé,,1,
+,variation,571,Holi-Récupération,1,visible,,,1,2,25,,,VAR21,2,Fonctionnalité,Récupération,,1,
+,variation,572,Holi-Sciatique,1,visible,,,1,2,25,,,VAR21,3,Fonctionnalité,Sciatique,,1,
+,variation,573,Holi- Douleurs articulaires,1,visible,,,1,1,25,,,VAR21,4,Fonctionnalité,Douleurs articulaires,,1,
+,variable,VAR22,Huile capillaire ,1,visible,Short Description,Main Description,1,,,"Beauté, Soins des cheveux, Soins avant et après douche",Commerce équitable,,0,Fonctionnalité,"anti pelliculaire, fortifiante anti chute",1,1,anti pelliculaire
+,variation,620,Huile capillaire anti pelliculaire,1,visible,,,1,2,35,,,VAR22,1,Fonctionnalité,anti pelliculaire,,1,
+,variation,621,Huile capillaire fortifiante anti chute,1,visible,,,1,4,35,,,VAR22,2,Fonctionnalité,fortifiante anti chute,,1,
+,variable,VAR23,Crayon yeux BIO,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Yeux",BIO,,0,Couleur,"Prune,Blanc Lunaire,Bleu Egyptien,Vert Impérial, Figue,Vert Camouflage,Noir Charbon, Gris Ardoise,Bleu Nuit,Terre Brûlée,Bronze Cuivré",1,1,Prune
+,variation,327,Crayon Yeux Prune Bio,1,visible,,,1,7,25.9,,,VAR23,1,Couleur,Prune,,1,
+,variation,329,Crayon Yeux Blanc Lunaire Bio,1,visible,,,1,2,25.9,,,VAR23,2,Couleur,Blanc Lunaire,,1,
+,variation,233,Crayon Yeux Bleu Egyptien Bio,1,visible,,,1,5,25.9,,,VAR23,3,Couleur,Bleu Egyptien,,1,
+,variation,235,Crayon Yeux Vert Impérial Bio,1,visible,,,1,2,25.9,,,VAR23,4,Couleur,Vert Impérial,,1,
+,variation,330,Crayon Yeux Figue Bio,1,visible,,,1,6,25.9,,,VAR23,5,Couleur,Figue,,1,
+,variation,331,Crayon Yeux Vert Camouflage Bio,1,visible,,,1,3,25.9,,,VAR23,6,Couleur,Vert Camouflage,,1,
+,variation,333,Crayon Yeux Noir Charbon Bio,1,visible,,,1,8,25.9,,,VAR23,7,Couleur,Noir Charbon,,1,
+,variation,337,Crayon Yeux Gris Ardoise Bio,1,visible,,,1,5,25.9,,,VAR23,8,Couleur,Gris Ardoise,,1,
+,variation,338,Crayon Yeux Bleu Nuit Bio,1,visible,,,1,0,25.9,,,VAR23,9,Couleur,Bleu Nuit,,1,
+,variation,340,Crayon Yeux Terre Brûlée Bio,1,visible,,,1,8,25.9,,,VAR23,10,Couleur,Terre Brûlée,,1,
+,variation,344,Crayon Yeux Bronze Cuivré,1,visible,,,1,7,25.9,,,VAR23,11,Couleur,Bronze Cuivré,,1,
+,variable,VAR24,Fard à paupières,1,visible,Short Description,Main Description,1,,,"Beauté, Maquillage, Yeux",BIO,,0,Couleur,"Or Vénitien,Prune Irisé",1,1,Or Vénitien
+,variation,335,Fard à Paupières Or Vénitien,1,visible,,,1,2,28,,,VAR24,1,Couleur,Or Vénitien,,1,
+,variation,336,Fard à paupières Prune Irisé,1,visible,,,1,0,28,,,VAR24,2,Couleur,Prune Irisé,,1,
